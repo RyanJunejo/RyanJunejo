@@ -31,8 +31,8 @@ I'm a Mathematical Applications in Probability and Statistics Specialist with a 
 
 ### Latest YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
-[![DP3: The MedMinder](https://ytcards.demolab.com/?id=c6vjFQBlxvY&title=The+Making+of+VIM%3A+The+Most+Beloved+Text+Editor+of+All+Time&lang=en&timestamp=1701961235&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=440 "The Making of VIM: The Most Beloved Text Editor of All Time")](https://www.youtube.com/watch?v=c6vjFQBlxvY)
-[![These Coding Projects Will Set You Apart as a Programmer (w/ Instructions Included)](https://ytcards.demolab.com/?id=8XVI_Zrvz3c&title=These+Coding+Projects+Will+Set+You+Apart+as+a+Programmer+%28w%2F+Instructions+Included%29&lang=en&timestamp=1701357302&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1268 "These Coding Projects Will Set You Apart as a Programmer (w/ Instructions Included)")](https://www.youtube.com/watch?v=8XVI_Zrvz3c)
+<!-- END YOUTUBE-CARDS -->
+
 <!--
 **RyanJunejo/RyanJunejo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
