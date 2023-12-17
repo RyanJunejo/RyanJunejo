@@ -31,6 +31,8 @@ I'm a Mathematical Applications in Probability and Statistics Specialist with a 
 
 ### Latest YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
+[![DP3 - The EasyPen and EasyBrace](https://ytcards.demolab.com/?id=zu8SgUgfRCw&title=DP3+-+The+EasyPen+and+EasyBrace&lang=en&timestamp=1696735307&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "DP3 - The EasyPen and EasyBrace")](https://www.youtube.com/watch?v=zu8SgUgfRCw)
+[![DP3 The MedMinder](https://ytcards.demolab.com/?id=GfVP3wkr3ig&title=DP3+The+MedMinder&lang=en&timestamp=1696735224&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "DP3 The MedMinder")](https://www.youtube.com/watch?v=GfVP3wkr3ig)
 <!-- END YOUTUBE-CARDS -->
 
 <!--
