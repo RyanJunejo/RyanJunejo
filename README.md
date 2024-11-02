@@ -8,9 +8,12 @@
 
 🌟 Currently, I’m a Senior Data Quality Specialist at Cohere, where I focus on refining Large Language Models. I play a pivotal role in enhancing data quality through meticulous auditing, labeling, and ranking of machine learning data. Additionally, I contributed to the testing and release of Aya Expanse, Cohere for AI's newest multilingual model, ensuring its robustness and effectiveness across various languages.
 
-🎤 I’m passionate about sharing knowledge and have had the opportunity to present my research at several esteemed platforms, including the Machine Learning Research Group at the University of Guelph, the Vector Institute, and the Computer Science Student Union Colloquium at the University of Toronto. These experiences have enriched my understanding of the field and allowed me to engage with a vibrant community of researchers and practitioners.
+🤝 I’m also passionate about improving student life at UofT. I’m involved in initiatives like Freefood@UofT, aimed at addressing food insecurity and fostering a stronger community among students. These projects reflect my commitment to making a positive impact beyond academics and research.
 
-🌱 I am dedicated to leveraging data and machine learning to drive positive change in the world, especially in areas like climate change and language processing. I’m always eager to connect with fellow enthusiasts and explore collaborative opportunities!
+🎤 I have shared my work and research through presentations at several esteemed platforms, including the Machine Learning Research Group at the University of Guelph, the Vector Institute, and the Computer Science Student Union Colloquium at the University of Toronto. Engaging with a vibrant community of researchers and practitioners has greatly enriched my understanding of the field.
+
+🌱 I am dedicated to leveraging data and machine learning to drive positive change, particularly in biodiversity conservation and community development. I’m always eager to connect with fellow enthusiasts and explore collaborative opportunities!
+
 
 ---
 
