@@ -8,7 +8,7 @@
 
 🌟 Currently, I’m a Senior Data Quality Specialist at Cohere, where I focus on refining Large Language Models. I play a pivotal role in enhancing data quality through meticulous auditing, labeling, and ranking of machine learning data. Additionally, I contributed to the testing and release of Aya Expanse, Cohere for AI's newest multilingual model, ensuring its robustness and effectiveness across various languages.
 
-🤝 I’m also passionate about improving student life at UofT. I’m involved in initiatives like Freefood@UofT, aimed at addressing food insecurity and fostering a stronger community among students. These projects reflect my commitment to making a positive impact beyond academics and research.
+🤝 Outside of my work, I’m actively involved in student life at UofT as the Secretary of the Computer Science Student Union and as the Director of Fundraising for the University of Toronto Outdoor Club. I also participate in initiatives like Freefood@UofT, aimed at addressing food insecurity and fostering a stronger community among students. These projects reflect my commitment to making a positive impact beyond academics and research.
 
 🎤 I have shared my work and research through presentations at several esteemed platforms, including the Machine Learning Research Group at the University of Guelph, the Vector Institute, and the Computer Science Student Union Colloquium at the University of Toronto. Engaging with a vibrant community of researchers and practitioners has greatly enriched my understanding of the field.
 
