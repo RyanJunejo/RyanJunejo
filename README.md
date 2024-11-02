@@ -2,7 +2,15 @@
 
 **`Math, Stats and CS Student at UofT`** 
 
-I'm a Mathematical Applications in Probability and Statistics Specialist with a minor in Computer Science at the University of Toronto. I'm an aspiring researcher and developer in Artificial Intelligence and Machine Learning. My projects range from Biomedical and Neurotechnology Engineering Design Projects to Artificial Intelligence based Apps and Software. I also make YouTube videos on the side! Feel free to connect with me on LinkedIn or my email ryan.junejo@mail.utoronto.ca.
+👋 Hi, I’m Ryan Junejo! I’m a Machine Learning enthusiast currently pursuing a Bachelor of Science (Honors) in Mathematical Applications in Probability and Statistics with a minor in Computer Science at the University of Toronto.
+
+💻 My journey in the field includes a valuable internship at the Vector Institute, where I developed innovative Retrieval-Augmented Generation (RAG) models aimed at enhancing species classification for biodiversity conservation efforts. This work involved revamping existing pipelines and creating evaluation metrics using OpenAI's CLIP and Meta's Hiera Transformers on the iNaturalist datasets.
+
+🌟 Currently, I’m a Senior Data Quality Specialist at Cohere, where I focus on refining Large Language Models. I play a pivotal role in enhancing data quality through meticulous auditing, labeling, and ranking of machine learning data. Additionally, I contributed to the testing and release of Aya Expanse, Cohere for AI's newest multilingual model, ensuring its robustness and effectiveness across various languages.
+
+🎤 I’m passionate about sharing knowledge and have had the opportunity to present my research at several esteemed platforms, including the Machine Learning Research Group at the University of Guelph, the Vector Institute, and the Computer Science Student Union Colloquium at the University of Toronto. These experiences have enriched my understanding of the field and allowed me to engage with a vibrant community of researchers and practitioners.
+
+🌱 I am dedicated to leveraging data and machine learning to drive positive change in the world, especially in areas like climate change and language processing. I’m always eager to connect with fellow enthusiasts and explore collaborative opportunities!
 
 ---
 
