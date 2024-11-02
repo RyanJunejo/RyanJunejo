@@ -12,7 +12,7 @@
 
 🎤 I have shared my work and research through presentations at several esteemed platforms, including the Machine Learning Research Group at the University of Guelph, the Vector Institute, and the Computer Science Student Union Colloquium at the University of Toronto. Engaging with a vibrant community of researchers and practitioners has greatly enriched my understanding of the field.
 
-🌱 I am dedicated to leveraging data and machine learning to drive positive change, particularly in biodiversity conservation and community development. I’m always eager to connect with fellow enthusiasts and explore collaborative opportunities!
+🌱 I am dedicated to leveraging data and machine learning to drive positive change, particularly in climate change and community development. I’m always eager to connect with fellow enthusiasts and explore collaborative opportunities!
 
 
 ---
