@@ -42,6 +42,7 @@
 
 ### Latest YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
+[![An introduction to Hiera: The hierarchial vision transformer without bells and whistles.](https://ytcards.demolab.com/?id=sZ2v4mDAGxk&title=An+introduction+to+Hiera%3A+The+hierarchial+vision+transformer+without+bells+and+whistles.&lang=en&timestamp=1730588157&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "An introduction to Hiera: The hierarchial vision transformer without bells and whistles.")](https://www.youtube.com/watch?v=sZ2v4mDAGxk)
 [![DP3 - The EasyPen and EasyBrace](https://ytcards.demolab.com/?id=zu8SgUgfRCw&title=DP3+-+The+EasyPen+and+EasyBrace&lang=en&timestamp=1696735307&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "DP3 - The EasyPen and EasyBrace")](https://www.youtube.com/watch?v=zu8SgUgfRCw)
 [![DP3 The MedMinder](https://ytcards.demolab.com/?id=GfVP3wkr3ig&title=DP3+The+MedMinder&lang=en&timestamp=1696735224&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "DP3 The MedMinder")](https://www.youtube.com/watch?v=GfVP3wkr3ig)
 <!-- END YOUTUBE-CARDS -->
